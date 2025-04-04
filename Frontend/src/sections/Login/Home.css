@@ -1,0 +1,28 @@
+.home_container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.admin_details, .resident_details {
+  padding: 15px;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.admin_details h3, .resident_details h3 {
+  color: #007bff;
+}
+
+p {
+  font-size: 16px;
+  margin: 8px 0;
+}
